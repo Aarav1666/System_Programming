@@ -35,7 +35,7 @@ Having obtained the formula from the table by a query such as above, you need to
 <br/><br/>
 
 ## Table of contents
-***
+
 
 * [OVERVIEW](#overview)
 * [ASSUMPTIONS](#assumptions)
@@ -52,7 +52,7 @@ Having obtained the formula from the table by a query such as above, you need to
 
 ## OVERVIEW
 
-***
+
 
 <br/>
 
@@ -76,7 +76,7 @@ For more on database functions visit [C API Developer Guide](https://dev.mysql.c
 
 ## ASSUMPTIONS
 
-***
+
 
 <br/>
 
@@ -86,7 +86,7 @@ For more on database functions visit [C API Developer Guide](https://dev.mysql.c
 
 ## USAGE
 
-***
+
 
 <br/>
 
@@ -129,7 +129,7 @@ Prints the resulting query and the table obtained upon it's execution
 
 ## DATABASE STRUCTURES
 
-*** 
+
 
 <br/><br/>
 
@@ -227,7 +227,7 @@ Prints the resulting query and the table obtained upon it's execution
 
 ## SYSTEM INFORMATION
 
-***
+
 
 <br/>
 
@@ -239,7 +239,7 @@ Prints the resulting query and the table obtained upon it's execution
 
 ## TERMINAL `command-lines`
 
-***
+
 
 <br/><br/>
 
@@ -277,7 +277,7 @@ g++ -g -o output lex.yy.o y.tab.o -L/usr/local/Cellar/mysql/8.0.26/lib -lmysqlcl
 
 ## CHECKLIST
 
-***
+
 
 <br/>
 
