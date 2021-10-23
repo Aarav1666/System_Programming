@@ -121,7 +121,14 @@ Streams the formula to the parser.
 ```bash
 GET;
 ```
-Prints the resulting query and the table obtained upon it's execution
+Prints the resulting query and the table obtained upon it's execution.
+
+<br/>
+
+```bash
+EXIT;
+```
+Terminates the program.
 
 
 
