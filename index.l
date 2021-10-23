@@ -38,7 +38,7 @@ int yylex();
 									return IDENTIFIER;
 								}
 ([0-9]*[.])?[0-9]+              {
-                                    yylval.cur_num = atoi(yytext);
+                                    yylval.cur_num = atof(yytext);
                                     return NUMBER;
                                 }
 
